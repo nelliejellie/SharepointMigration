@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://perryhomes@dev.azure.com/perryhomes/ERP%20Transformation/_git/SharepointMigration
+	fetch = +refs/*:refs/*
+	mirror = true
